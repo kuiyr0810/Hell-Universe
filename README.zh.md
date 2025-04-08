@@ -1,6 +1,6 @@
 # Hell-Universe
 
-New-Star 是一个网页浏览器游戏引擎。这项工作的目标是完全重启 2Moons：全新的设计、全新的游戏玩法以及更多内容。这个开源的浏览器游戏框架基于 [2Moons](https://github.com/jkroepke/2Moons)。
+Hell-Universe 是一个网页浏览器游戏引擎。这项工作的目标是完全重启 2Moons：全新的设计、全新的游戏玩法以及更多内容。这个开源的浏览器游戏框架基于 [2Moons](https://github.com/jkroepke/2Moons)。
 
 ## Hell-Universe 网站
 
