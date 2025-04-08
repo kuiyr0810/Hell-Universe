@@ -1,5 +1,5 @@
 # New-Star
-中文文档请点击[中文文档](https://github.com/kuiyr0810/Hell-Universe/README.zh.md)
+中文文档请点击[中文文档]([https://github.com/kuiyr0810/Hell-Universe/README.zh.md](https://github.com/kuiyr0810/Hell-Universe/blob/master/README.zh.md))
 
 New-Star is a web browser game engine. The goal of this work is to completely restart 2Moons: a new design, a new gameplay and much more. The open source browsergame framework is based on [2Moons](https://github.com/jkroepke/2Moons). 
 
