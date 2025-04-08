@@ -28,7 +28,7 @@ New-Star 是一个网页浏览器游戏引擎。这项工作的目标是完全�
 - `install/`
   - 首次安装
   - 数据库创建
-- `language/` - 翻译：EN, RU
+- `language/` - 翻译：EN, RU, ZH
 - `licenses/` - 开源许可方案
 - `sound/` - 媒体文件
 - `mods/` - 不提供支持的修改
